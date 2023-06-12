@@ -1,11 +1,13 @@
 public class InnerClass {
     public class innerClass {
-        public void display() {
+        public void display() 
+        {
             System.out.println("inner class is called");
         }
     }
 
-    public void display1() {
+    public void display1() 
+    {
         System.out.println("display1 function is called");
     }
 

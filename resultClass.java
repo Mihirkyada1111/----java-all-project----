@@ -96,7 +96,7 @@ public class resultClass
         resultClass r=new resultClass();
         r.name("mihir");
         r.rollno(1111);
-        r.collagename("Red & White");
+        r.collagename("");
         r.gr_id(1878);
         r.marks();
         r.per();
